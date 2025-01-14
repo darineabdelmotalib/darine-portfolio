@@ -67,7 +67,7 @@ function HomePage() {
         </div>
 
         <div className="splineContainer">
-          <Spline scene="https://prod.spline.design/DjtuaJm1pOO0vxPC/scene.splinecode" />
+         <Spline scene="https://prod.spline.design/DjtuaJm1pOO0vxPC/scene.splinecode" />
         </div>
 
         <a className="textContainer__link" href="https://www.linkedin.com/in/darine-abdelmotalib/" target="_blank">LinkedIn</a>
