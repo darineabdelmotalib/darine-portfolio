@@ -1,15 +1,15 @@
 
 import './App.scss'
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { HashRouter, Routes, Route } from 'react-router-dom';
 import HomePage from "./pages/HomePage/HomePage";
 
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Routes>
         <Route path="/" element={<HomePage />}></Route>
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   )
 }
 
