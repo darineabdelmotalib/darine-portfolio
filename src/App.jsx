@@ -5,13 +5,11 @@ import HomePage from "./pages/HomePage/HomePage";
 
 function App() {
   return (
-    <p>hello</p>
-
-    // <HashRouter>
-    //   <Routes>
-    //     <Route path="/" element={<HomePage />}></Route>
-    //   </Routes>
-    // </HashRouter>
+    <HashRouter>
+      <Routes>
+        <Route path="/" element={<HomePage />}></Route>
+      </Routes>
+    </HashRouter>
   )
 }
 
