@@ -1,7 +1,6 @@
 {
-  "homepage": "https://darineabdelmotalib.github.io/portfolio/",
-  "name": "portfolio",
-  "private": true,
+  "homepage": "https://darineabdelmotalib.github.io/darine-portfolio/",
+  "name": "darine-portfolio",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
